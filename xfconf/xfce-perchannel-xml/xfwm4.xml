@@ -9,16 +9,16 @@
     <property name="button_layout" type="string" value="|HMC"/>
     <property name="button_offset" type="int" value="0"/>
     <property name="button_spacing" type="int" value="0"/>
-    <property name="click_to_focus" type="bool" value="true"/>
+    <property name="click_to_focus" type="bool" value="false"/>
     <property name="cycle_apps_only" type="bool" value="false"/>
     <property name="cycle_draw_frame" type="bool" value="true"/>
     <property name="cycle_raise" type="bool" value="false"/>
     <property name="cycle_hidden" type="bool" value="true"/>
     <property name="cycle_minimum" type="bool" value="true"/>
-    <property name="cycle_minimized" type="bool" value="false"/>
+    <property name="cycle_minimized" type="bool" value="true"/>
     <property name="cycle_preview" type="bool" value="true"/>
-    <property name="cycle_tabwin_mode" type="int" value="0"/>
-    <property name="cycle_workspaces" type="bool" value="false"/>
+    <property name="cycle_tabwin_mode" type="int" value="1"/>
+    <property name="cycle_workspaces" type="bool" value="true"/>
     <property name="double_click_action" type="string" value="maximize"/>
     <property name="double_click_distance" type="int" value="5"/>
     <property name="double_click_time" type="int" value="250"/>
@@ -35,8 +35,8 @@
     <property name="mousewheel_rollup" type="bool" value="true"/>
     <property name="move_opacity" type="int" value="100"/>
     <property name="placement_mode" type="string" value="center"/>
-    <property name="placement_ratio" type="int" value="20"/>
-    <property name="popup_opacity" type="int" value="100"/>
+    <property name="placement_ratio" type="int" value="33"/>
+    <property name="popup_opacity" type="int" value="90"/>
     <property name="prevent_focus_stealing" type="bool" value="false"/>
     <property name="raise_delay" type="int" value="250"/>
     <property name="raise_on_click" type="bool" value="true"/>
@@ -59,7 +59,7 @@
     <property name="snap_to_windows" type="bool" value="false"/>
     <property name="snap_width" type="int" value="10"/>
     <property name="vblank_mode" type="string" value="auto"/>
-    <property name="theme" type="string" value="WhiteSur-Dark"/>
+    <property name="theme" type="string" value="WhiteSur-Dark-nord"/>
     <property name="tile_on_move" type="bool" value="true"/>
     <property name="title_alignment" type="string" value="center"/>
     <property name="title_font" type="string" value="FantasqueSansMono Nerd Font Bold 9"/>
@@ -73,7 +73,7 @@
     <property name="unredirect_overlays" type="bool" value="true"/>
     <property name="urgent_blink" type="bool" value="false"/>
     <property name="use_compositing" type="bool" value="true"/>
-    <property name="workspace_count" type="int" value="4"/>
+    <property name="workspace_count" type="int" value="7"/>
     <property name="wrap_cycle" type="bool" value="true"/>
     <property name="wrap_layout" type="bool" value="true"/>
     <property name="wrap_resistance" type="int" value="10"/>
@@ -82,10 +82,26 @@
     <property name="zoom_desktop" type="bool" value="true"/>
     <property name="zoom_pointer" type="bool" value="true"/>
     <property name="workspace_names" type="array">
-      <value type="string" value="Workspace 1"/>
-      <value type="string" value="Workspace 2"/>
-      <value type="string" value="Workspace 3"/>
-      <value type="string" value="Workspace 4"/>
+      <value type="string" value="  "/>
+      <value type="string" value="  "/>
+      <value type="string" value="  "/>
+      <value type="string" value="  "/>
+      <value type="string" value="  "/>
+      <value type="string" value="  "/>
+      <value type="string" value="    "/>
+      <value type="string" value=""/>
+      <value type="string" value=""/>
+      <value type="string" value="漣"/>
+      <value type="string" value=""/>
+      <value type="string" value=""/>
+      <value type="string" value=""/>
+      <value type="string" value=""/>
+      <value type="string" value="肏"/>
+      <value type="string" value=""/>
+      <value type="string" value="Workspace 17"/>
+      <value type="string" value="Workspace 18"/>
+      <value type="string" value="Workspace 19"/>
+      <value type="string" value="Workspace 20"/>
     </property>
   </property>
 </channel>

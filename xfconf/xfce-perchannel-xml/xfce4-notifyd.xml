@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-notifyd" version="1.0">
-  <property name="log-max-size-enabled" type="bool" value="true"/>
+  <property name="log-max-size-enabled" type="bool" value="false"/>
   <property name="applications" type="empty">
     <property name="known_applications" type="array">
       <value type="string" value="bleachbit"/>
@@ -17,4 +17,14 @@
       <value type="string" value="xfce4-power-manager"/>
     </property>
   </property>
+  <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
+  <property name="notification-log" type="bool" value="true"/>
+  <property name="log-level" type="string" value="always"/>
+  <property name="theme" type="string" value="Smoke"/>
+  <property name="notify-location" type="string" value="top-center"/>
+  <property name="initial-opacity" type="double" value="0.93999999999999995"/>
+  <property name="plugin" type="empty">
+    <property name="log-only-today" type="bool" value="false"/>
+  </property>
+  <property name="do-not-disturb" type="bool" value="false"/>
 </channel>
