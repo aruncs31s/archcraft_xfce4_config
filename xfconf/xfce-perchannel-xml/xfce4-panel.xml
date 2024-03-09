@@ -29,6 +29,7 @@
         <value type="int" value="10"/>
         <value type="int" value="11"/>
         <value type="int" value="14"/>
+        <value type="int" value="18"/>
       </property>
       <property name="span-monitors" type="bool" value="false"/>
       <property name="output-name" type="string" value="eDP1"/>
@@ -156,5 +157,6 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
+    <property name="plugin-18" type="string" value="netload"/>
   </property>
 </channel>
