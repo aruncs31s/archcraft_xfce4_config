@@ -58,6 +58,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “galaxy a34 5g 2bc2” active: galaxy a34 5g 2bc2 (82%)"/>
         <value type="string" value="blueman-tray"/>
         <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (49%)"/>
         <value type="string" value="ethernet network connection “wired connection 4” active"/>
