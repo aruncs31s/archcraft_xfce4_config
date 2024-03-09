@@ -45,7 +45,7 @@
     </property>
     <property name="plugin-4" type="string" value="pager">
       <property name="rows" type="uint" value="1"/>
-      <property name="miniature-view" type="bool" value="false"/>
+      <property name="miniature-view" type="bool" value="true"/>
       <property name="numbering" type="bool" value="false"/>
       <property name="workspace-scrolling" type="bool" value="false"/>
     </property>
