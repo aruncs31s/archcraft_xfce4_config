@@ -1,11 +1,19 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[00008020-00061D290CE1002E]
+[/home/aruncs/Desktop/BTECH]
+row=2
+col=0
+
+[/home/aruncs/Desktop/Projects]
 row=0
 col=0
 
-[iPhone]
+[/home/aruncs/Desktop/Obsidian Notes]
 row=1
+col=0
+
+[/home/aruncs/Desktop/Books]
+row=3
 col=0
 
