@@ -56,6 +56,11 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="blueman-tray"/>
+        <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (49%)"/>
+        <value type="string" value="ethernet network connection “wired connection 4” active"/>
+        <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (46%)"/>
+        <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (45%)"/>
         <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (44%)"/>
         <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (34%)"/>
         <value type="string" value="xfce4-power-manager"/>
@@ -82,6 +87,7 @@
         <value type="string" value="wi-fi network connection “wireless fi” active: wireless fi (85%)"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="Proton VPN Tray"/>
         <value type="string" value="SimpleScreenRecorder"/>
         <value type="string" value="qBittorrent"/>

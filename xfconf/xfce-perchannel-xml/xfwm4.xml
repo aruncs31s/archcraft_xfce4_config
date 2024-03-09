@@ -83,12 +83,12 @@
     <property name="zoom_pointer" type="bool" value="true"/>
     <property name="workspace_names" type="array">
       <value type="string" value="  "/>
-      <value type="string" value="  "/>
+      <value type="string" value="   "/>
       <value type="string" value="  "/>
       <value type="string" value="  "/>
       <value type="string" value="  "/>
-      <value type="string" value="  "/>
-      <value type="string" value="    "/>
+      <value type="string" value="   "/>
+      <value type="string" value="     "/>
       <value type="string" value=""/>
       <value type="string" value=""/>
       <value type="string" value="漣"/>
