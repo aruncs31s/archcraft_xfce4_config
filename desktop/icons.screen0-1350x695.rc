@@ -1,31 +1,35 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/aruncs/Desktop/secret.symmetric.cds.key.gpg]
-row=6
-col=0
-
-[/home/aruncs/Desktop/grass.gpg]
-row=5
-col=0
-
 [/home/aruncs/Desktop/Obsidian Notes]
 row=1
 col=0
 
 [/home/aruncs/Desktop/2004.13239.pdf]
-row=4
+row=5
+col=0
+
+[/home/aruncs/Desktop/secret.symmetric.cds.key.gpg]
+row=6
+col=0
+
+[/home/aruncs/Desktop/BTECH]
+row=2
 col=0
 
 [/home/aruncs/Desktop/Projects]
 row=0
 col=0
 
-[/home/aruncs/Desktop/Books]
-row=2
+[/home/aruncs/Desktop/grass.gpg]
+row=4
 col=0
 
-[/home/aruncs/Desktop/BTECH]
+[/home/aruncs/Desktop/Books]
 row=3
+col=0
+
+[SAMSUNG Android]
+row=7
 col=0
 
