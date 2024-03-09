@@ -16,8 +16,8 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1280"/>
-        <property name="Y" type="int" value="36"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="HDMI1" type="string" value="Boca Research Inc 17&quot;">
@@ -52,8 +52,8 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1280"/>
-        <property name="Y" type="int" value="36"/>
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="HDMI1" type="string" value="Boca Research Inc 17&quot;">
