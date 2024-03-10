@@ -133,6 +133,11 @@
       <property name="known-players" type="string" value="org.gnome.Music;org.gnome.Rhythmbox3;spotify;Thorium;vlc"/>
       <property name="play-sound" type="bool" value="false"/>
       <property name="rec-indicator-persistent" type="bool" value="true"/>
+      <property name="volume-step" type="uint" value="3"/>
+      <property name="volume-max" type="uint" value="300"/>
+      <property name="persistent-players" type="string" value="org.gnome.Rhythmbox3;spotify"/>
+      <property name="multimedia-keys-to-all" type="bool" value="true"/>
+      <property name="enable-wnck" type="bool" value="true"/>
     </property>
     <property name="plugin-8" type="string" value="xfce4-clipman-plugin"/>
     <property name="plugin-12" type="string" value="xfce4-notes-plugin"/>
