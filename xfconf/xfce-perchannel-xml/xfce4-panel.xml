@@ -4,21 +4,21 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <value type="int" value="2"/>
-    <property name="dark-mode" type="bool" value="false"/>
+    <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=6;x=1963;y=46"/>
+      <property name="position" type="string" value="p=9;x=681;y=15"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="16"/>
       <property name="size" type="uint" value="19"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
-        <value type="int" value="7"/>
         <value type="int" value="4"/>
-        <value type="int" value="18"/>
-        <value type="int" value="20"/>
+        <value type="int" value="24"/>
         <value type="int" value="23"/>
+        <value type="int" value="18"/>
+        <value type="int" value="26"/>
+        <value type="int" value="20"/>
         <value type="int" value="19"/>
         <value type="int" value="15"/>
         <value type="int" value="6"/>
@@ -33,29 +33,17 @@
       <property name="output-name" type="string" value="eDP1"/>
       <property name="autohide-behavior" type="uint" value="0"/>
       <property name="mode" type="uint" value="0"/>
-      <property name="enable-struts" type="bool" value="false"/>
-    </property>
-    <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=5;x=25;y=423"/>
-      <property name="size" type="uint" value="27"/>
-      <property name="length" type="double" value="10"/>
-      <property name="mode" type="uint" value="1"/>
-      <property name="plugin-ids" type="array">
-        <value type="int" value="22"/>
-      </property>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="enable-struts" type="bool" value="false"/>
-      <property name="background-style" type="uint" value="1"/>
-      <property name="enter-opacity" type="uint" value="97"/>
-      <property name="leave-opacity" type="uint" value="29"/>
-      <property name="icon-size" type="uint" value="7"/>
-      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="enter-opacity" type="uint" value="92"/>
+      <property name="leave-opacity" type="uint" value="96"/>
+      <property name="background-style" type="uint" value="2"/>
+      <property name="background-image" type="string" value="file:///home/aruncs/Pictures/Downloads/4570823.jpg"/>
       <property name="nrows" type="uint" value="1"/>
     </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="applicationsmenu">
-      <property name="button-title" type="string" value="Applications"/>
+      <property name="button-title" type="string" value="Apps"/>
     </property>
     <property name="plugin-4" type="string" value="pager">
       <property name="rows" type="uint" value="1"/>
@@ -131,11 +119,6 @@
       </property>
       <property name="button-title" type="uint" value="0"/>
     </property>
-    <property name="plugin-7" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17082683421.desktop"/>
-      </property>
-    </property>
     <property name="plugin-2" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="known-players" type="string" value="org.gnome.Music;org.gnome.Rhythmbox3;spotify;Thorium;vlc"/>
@@ -167,14 +150,17 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-20" type="string" value="xfce4-sensors-plugin"/>
-    <property name="plugin-22" type="string" value="pager">
-      <property name="rows" type="uint" value="1"/>
-      <property name="miniature-view" type="bool" value="false"/>
-      <property name="workspace-scrolling" type="bool" value="false"/>
-    </property>
     <property name="plugin-23" type="string" value="pager">
       <property name="rows" type="uint" value="1"/>
       <property name="miniature-view" type="bool" value="false"/>
+    </property>
+    <property name="plugin-24" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-26" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
     </property>
   </property>
 </channel>

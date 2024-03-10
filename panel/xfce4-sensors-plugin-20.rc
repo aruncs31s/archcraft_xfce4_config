@@ -1,6 +1,7 @@
 [General]
 Show_Labels=false
 Small_Spacings=true
+Suppress_Hddtemp_Message=true
 Lines_Size=1
 Preferred_Height=436
 Number_Chips=6
