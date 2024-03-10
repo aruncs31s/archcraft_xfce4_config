@@ -136,7 +136,7 @@
       <property name="volume-step" type="uint" value="3"/>
       <property name="volume-max" type="uint" value="300"/>
       <property name="persistent-players" type="string" value="org.gnome.Rhythmbox3;spotify"/>
-      <property name="multimedia-keys-to-all" type="bool" value="true"/>
+      <property name="multimedia-keys-to-all" type="bool" value="false"/>
       <property name="enable-wnck" type="bool" value="true"/>
     </property>
     <property name="plugin-8" type="string" value="xfce4-clipman-plugin"/>
