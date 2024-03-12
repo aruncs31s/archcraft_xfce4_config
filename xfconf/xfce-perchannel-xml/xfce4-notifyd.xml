@@ -9,6 +9,7 @@
       <value type="string" value="discord"/>
       <value type="string" value="dunstify"/>
       <value type="string" value="Firefox"/>
+      <value type="string" value="Insync"/>
       <value type="string" value="networkmanager-dmenu"/>
       <value type="string" value="notify-send"/>
       <value type="string" value="org.freedesktop.network-manager-applet"/>
