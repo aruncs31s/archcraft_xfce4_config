@@ -54,6 +54,8 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="protonvpn"/>
         <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (35%)"/>
         <value type="string" value="wi-fi network connection “gcek-wifi” active: gcek-wifi (41%)"/>
         <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (48%)"/>
@@ -129,7 +131,7 @@
     </property>
     <property name="plugin-2" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="known-players" type="string" value="org.gnome.Music;org.gnome.Rhythmbox3;spotify;Thorium;vlc"/>
+      <property name="known-players" type="string" value="org.gnome.Music;org.gnome.Rhythmbox3;spotify;Thorium;Vivaldi;vlc"/>
       <property name="play-sound" type="bool" value="false"/>
       <property name="rec-indicator-persistent" type="bool" value="true"/>
       <property name="volume-step" type="uint" value="3"/>
