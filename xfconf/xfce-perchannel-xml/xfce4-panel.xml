@@ -24,7 +24,6 @@
         <value type="int" value="6"/>
         <value type="int" value="9"/>
         <value type="int" value="2"/>
-        <value type="int" value="8"/>
         <value type="int" value="10"/>
         <value type="int" value="11"/>
         <value type="int" value="14"/>
@@ -54,6 +53,9 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “oppo a54” active: oppo a54 (59%)"/>
+        <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (55%)"/>
+        <value type="string" value="clipman"/>
         <value type="string" value="telegramdesktop"/>
         <value type="string" value="protonvpn"/>
         <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (35%)"/>
@@ -140,7 +142,6 @@
       <property name="multimedia-keys-to-all" type="bool" value="false"/>
       <property name="enable-wnck" type="bool" value="true"/>
     </property>
-    <property name="plugin-8" type="string" value="xfce4-clipman-plugin"/>
     <property name="notes" type="empty">
       <property name="global" type="empty">
         <property name="version" type="string" value="1.11.0"/>
