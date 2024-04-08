@@ -6,7 +6,7 @@
     <property name="idle-activation" type="empty">
       <property name="enabled" type="bool" value="false"/>
     </property>
-    <property name="enabled" type="bool" value="false"/>
+    <property name="enabled" type="bool" value="true"/>
   </property>
   <property name="screensavers" type="empty">
     <property name="xfce-personal-slideshow" type="empty">
@@ -15,6 +15,6 @@
     </property>
   </property>
   <property name="lock" type="empty">
-    <property name="enabled" type="bool" value="false"/>
+    <property name="enabled" type="bool" value="true"/>
   </property>
 </channel>

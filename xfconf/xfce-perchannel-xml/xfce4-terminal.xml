@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-terminal" version="1.0">
-  <property name="color-foreground" type="string" value="#ababb2b2bfbf"/>
-  <property name="color-background" type="string" value="#2e2e34344040"/>
-  <property name="color-cursor" type="string" value="#ababb2b2bfbf"/>
+  <property name="color-foreground" type="string" value="#eeffff"/>
+  <property name="color-background" type="string" value="#1e2541"/>
+  <property name="color-cursor" type="string" value="#eeffff"/>
   <property name="color-bold-use-default" type="bool" value="false"/>
-  <property name="color-palette" type="string" value="#323236363d3d;#e0e06b6b7474;#9898c3c37979;#e5e5c0c07a7a;#6262aeaeefef;#c7c77878dddd;#5555b6b6c2c2;#ababb2b2bfbf;#505054545b5b;#eaea75757e7e;#a2a2cdcd8383;#efefcaca8484;#6c6cb8b8f9f9;#d2d28282e7e7;#5f5fc0c0cccc;#b5b5bcbcc9c9"/>
-  <property name="font-name" type="string" value="CaskaydiaCove Nerd Font Semi-Light 11"/>
+  <property name="color-palette" type="string" value="#1e2541;#f0719b;#5af7b0;#ffa56b;#57c7ff;#c792ea;#89ddff;#eeffff;#354274;#f02e6e;#2ce592;#ff8537;#1da0e2;#a742ea;#47bae8;#dee6e7"/>
+  <property name="font-name" type="string" value="JetBrainsMono Nerd Font 10"/>
   <property name="misc-always-show-tabs" type="bool" value="false"/>
   <property name="misc-bell" type="bool" value="false"/>
   <property name="misc-bell-urgent" type="bool" value="false"/>
@@ -18,7 +18,7 @@
   <property name="misc-menubar-default" type="bool" value="false"/>
   <property name="misc-mouse-autohide" type="bool" value="false"/>
   <property name="misc-mouse-wheel-zoom" type="bool" value="true"/>
-  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-toolbar-default" type="bool" value="true"/>
   <property name="misc-confirm-close" type="bool" value="true"/>
   <property name="misc-cycle-tabs" type="bool" value="true"/>
   <property name="misc-tab-close-buttons" type="bool" value="true"/>
@@ -40,9 +40,9 @@
   <property name="color-cursor-use-default" type="bool" value="true"/>
   <property name="color-selection-use-default" type="bool" value="true"/>
   <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
-  <property name="background-darkness" type="double" value="0.89000000000000001"/>
+  <property name="background-darkness" type="double" value="0.88"/>
   <property name="cell-width-scale" type="double" value="1"/>
   <property name="cell-height-scale" type="double" value="1"/>
-  <property name="font-allow-bold" type="bool" value="true"/>
-  <property name="color-use-theme" type="bool" value="true"/>
+  <property name="font-allow-bold" type="bool" value="false"/>
+  <property name="color-use-theme" type="bool" value="false"/>
 </channel>

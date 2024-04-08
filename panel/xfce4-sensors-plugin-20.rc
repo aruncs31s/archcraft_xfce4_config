@@ -14,14 +14,6 @@ Number=0
 Name=BAT1-0
 Number=1
 
-[Chip1_Feature0]
-Address=0
-Name=in0
-Color=#00B000
-Show=true
-Min=1
-Max=12.199999809265137
-
 [Chip1_Feature1]
 Address=1
 Name=curr1

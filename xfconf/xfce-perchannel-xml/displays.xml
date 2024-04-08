@@ -16,7 +16,7 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
+        <property name="X" type="int" value="1280"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
@@ -24,7 +24,7 @@
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="58c971788157b616075b4b361bebd8b2b4cf6bdb"/>
       <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019739825542622"/>
+      <property name="RefreshRate" type="double" value="75.024674781928283"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -33,7 +33,7 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1366"/>
+        <property name="X" type="int" value="0"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
@@ -52,7 +52,7 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="0"/>
+        <property name="X" type="int" value="1280"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
@@ -60,7 +60,7 @@
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="58c971788157b616075b4b361bebd8b2b4cf6bdb"/>
       <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019739825542622"/>
+      <property name="RefreshRate" type="double" value="75.024674781928283"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -69,7 +69,7 @@
         <property name="Y" type="double" value="1"/>
       </property>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1366"/>
+        <property name="X" type="int" value="0"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
