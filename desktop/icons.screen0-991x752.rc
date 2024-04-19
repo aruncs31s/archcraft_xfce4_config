@@ -5,24 +5,16 @@
 row=6
 col=0
 
-[/home/aruncs/Desktop/Ping]
-row=4
+[/home/aruncs/Desktop/Obsidian Notes]
+row=1
 col=0
 
 [/home/aruncs/Desktop/BtechEC]
 row=7
 col=0
 
-[/home/aruncs/Desktop/Obsidian Notes]
-row=1
-col=0
-
-[/home/aruncs/Desktop/2004.13239.pdf]
-row=5
-col=0
-
-[/home/aruncs/Desktop/Projects]
-row=0
+[/home/aruncs/Desktop/Ping]
+row=4
 col=0
 
 [/home/aruncs/Desktop/Books]
@@ -31,5 +23,13 @@ col=0
 
 [/home/aruncs/Desktop/BTECH]
 row=2
+col=0
+
+[/home/aruncs/Desktop/mappings.lua]
+row=5
+col=0
+
+[/home/aruncs/Desktop/Projects]
+row=0
 col=0
 

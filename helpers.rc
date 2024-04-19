@@ -1,3 +1,4 @@
 WebBrowserDismissed=true
+TerminalEmulator=alacritty
 
-WebBrowser=brave-browser
+WebBrowser=vivaldi-stable

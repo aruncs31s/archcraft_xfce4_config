@@ -2,19 +2,19 @@
 4.10.3+=true
 
 [/home/aruncs/Desktop/Obsidian Notes]
-row=1
+row=7
 col=0
 
 [/home/aruncs/Desktop/Books]
-row=3
+row=8
 col=0
 
 [/home/aruncs/Desktop/BTECH]
-row=2
-col=0
+row=1
+col=1
 
 [/home/aruncs/Desktop/Projects]
-row=0
+row=1
 col=0
 
 [/home/aruncs/Desktop/BtechEC]
@@ -22,8 +22,8 @@ row=2
 col=1
 
 [/home/aruncs/Desktop/Ping]
-row=4
-col=0
+row=3
+col=1
 
 [/home/aruncs/Desktop/Blowfish.mjs]
 row=6

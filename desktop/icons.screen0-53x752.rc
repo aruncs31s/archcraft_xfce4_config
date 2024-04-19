@@ -2,15 +2,15 @@
 4.10.3+=true
 
 [/home/aruncs/Desktop/Blowfish.mjs]
-row=6
-col=0
+row=2
+col=1
 
 [/home/aruncs/Desktop/Ping]
-row=4
-col=0
+row=0
+col=1
 
 [/home/aruncs/Desktop/BtechEC]
-row=7
+row=4
 col=0
 
 [/home/aruncs/Desktop/Obsidian Notes]
@@ -18,8 +18,8 @@ row=1
 col=0
 
 [/home/aruncs/Desktop/2004.13239.pdf]
-row=5
-col=0
+row=1
+col=1
 
 [/home/aruncs/Desktop/Projects]
 row=0

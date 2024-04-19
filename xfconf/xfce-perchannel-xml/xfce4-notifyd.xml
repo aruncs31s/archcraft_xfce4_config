@@ -4,6 +4,7 @@
   <property name="log-max-size-enabled" type="bool" value="false"/>
   <property name="applications" type="empty">
     <property name="known_applications" type="array">
+      <value type="string" value="/home/aruncs/.local/share/applications/WALC.desktop"/>
       <value type="string" value="bleachbit"/>
       <value type="string" value="blueman"/>
       <value type="string" value="brave-browser"/>
@@ -20,6 +21,7 @@
       <value type="string" value="Spotify"/>
       <value type="string" value="thorium-browser"/>
       <value type="string" value="vivaldi-stable"/>
+      <value type="string" value="walc"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>
       <value type="string" value="xfce4-power-manager"/>
