@@ -2,9 +2,9 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="WhiteSur-Dark-solid-nord"/>
+    <property name="ThemeName" type="string" value="WhiteSur-Dark-nord"/>
     <property name="IconThemeName" type="string" value="WhiteSur-dark"/>
-    <property name="DoubleClickTime" type="empty"/>
+    <property name="DoubleClickTime" type="int" value="440"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
     <property name="CursorBlink" type="empty"/>
@@ -32,7 +32,7 @@
     <property name="MenuImages" type="bool" value="true"/>
     <property name="ButtonImages" type="bool" value="false"/>
     <property name="MenuBarAccel" type="empty"/>
-    <property name="CursorThemeName" type="string" value="Future-Dark"/>
+    <property name="CursorThemeName" type="string" value="Layan"/>
     <property name="CursorThemeSize" type="empty"/>
     <property name="DecorationLayout" type="string" value=":minimize,maximize,close"/>
     <property name="DialogsUseHeader" type="empty"/>
@@ -43,6 +43,6 @@
   </property>
   <property name="Xfce" type="empty">
     <property name="LastCustomDPI" type="int" value="96"/>
-    <property name="SyncThemes" type="bool" value="false"/>
+    <property name="SyncThemes" type="bool" value="true"/>
   </property>
 </channel>

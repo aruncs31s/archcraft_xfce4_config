@@ -20,11 +20,11 @@
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="HDMI1" type="string" value="Boca Research Inc 17&quot;">
+    <property name="HDMI1" type="string" value="Acer Technologies 19&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="58c971788157b616075b4b361bebd8b2b4cf6bdb"/>
-      <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019739825542622"/>
+      <property name="EDID" type="string" value="9d760bd01dbec03b2c733554d8705e93f15180ca"/>
+      <property name="Resolution" type="string" value="1366x768"/>
+      <property name="RefreshRate" type="double" value="59.789540816326529"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -34,7 +34,7 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="48"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
   </property>
@@ -56,11 +56,11 @@
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="HDMI1" type="string" value="Boca Research Inc 17&quot;">
+    <property name="HDMI1" type="string" value="Acer Technologies 19&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="58c971788157b616075b4b361bebd8b2b4cf6bdb"/>
-      <property name="Resolution" type="string" value="1280x1024"/>
-      <property name="RefreshRate" type="double" value="60.019739825542622"/>
+      <property name="EDID" type="string" value="9d760bd01dbec03b2c733554d8705e93f15180ca"/>
+      <property name="Resolution" type="string" value="1366x768"/>
+      <property name="RefreshRate" type="double" value="59.789540816326529"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -70,7 +70,7 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="48"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
   </property>
