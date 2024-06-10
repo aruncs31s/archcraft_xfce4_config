@@ -1,0 +1,50 @@
+.xfce4-panel button,
+.genmon_plugin,
+#docklike-plugin .group {
+  transition: 1s;
+  /* border-radius: 3; */
+  margin: 3px;
+  background: rgba(255, 255, 255, 0.1);
+  /* #2e3440 */
+  border-radius: 1px;
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px;
+  border-top-left-radius: 13px;
+  border-top-right-radius: 13px;
+  /* margin-top: 10; */
+  /* padding-left:3px; */
+  /* padding-right:9px; */
+}
+#XfcePanelWindow {
+  border-radius: 12px;
+}
+.xfce4-panel.background .tasklist button {
+  font-size: 12px;
+}
+
+.xfce4-panel.background button:active,
+.xfce4-panel.background button:hover,
+.xfce4-panel.background button:active:hover,
+.xfce4-panel.background .tasklist button:active,
+.xfce4-panel.background .tasklist button:hover,
+.xfce4-panel.background .tasklist button:active:hover,
+#docklike-plugin .hover_group {
+  background-color: rgba(000, 200, 255, 1);
+}
+
+.xfce4-panel button:checked {
+  background: rgba(000, 155, 255, 0.3);
+}
+
+/* 	.genmon_plugin { */
+/*     padding: 5px; */
+/* } */
+/* .genmon_plugin image { */
+/*     margin-left: 5px; */
+/* } */
+/* 	.genmon_plugin label { */
+/*     padding: 5px; */
+/* } */
+.xfce4-panel {
+  margin-top: 20px; /* Adjust the value as needed to move the panel lower */
+}
