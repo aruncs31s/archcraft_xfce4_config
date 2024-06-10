@@ -161,6 +161,9 @@
     </property>
     <property name="plugin-20" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="configuring wi-fi network connection “poco x2”…"/>
+        <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (73%)"/>
+        <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (78%)"/>
         <value type="string" value="wi-fi network connection “poco c55” active: poco c55 (69%)"/>
         <value type="string" value="wi-fi network connection “poco x2” active: poco x2 (34%)"/>
         <value type="string" value="wi-fi network connection “poco x2” active: poco x2 (36%)"/>
