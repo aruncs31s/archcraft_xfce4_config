@@ -59,7 +59,6 @@
       <property name="HomePage" type="string" value="exo-open --launch WebBrowser"/>
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
-      <property name="&lt;Super&gt;m" type="string" value="/home/aruncs/.config/i3/scripts/rofi_music"/>
       <property name="&lt;Super&gt;p" type="string" value="/home/aruncs/.config/i3/scripts/i3_colorpicker"/>
       <property name="&lt;Super&gt;s" type="string" value="/home/aruncs/.config/i3/scripts/rofi_screenshot"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;Return" type="string" value="xfce4-terminal --hide-borders --geometry=70x20"/>
@@ -69,6 +68,11 @@
       <property name="&lt;Super&gt;w" type="string" value="/usr/share/archcraft/dwm/scripts/rofi_windows"/>
       <property name="&lt;Super&gt;d" type="string" value="/usr/share/archcraft/dwm/scripts/rofi_launcher"/>
       <property name="&lt;Super&gt;q" type="string" value="/usr/share/archcraft/dwm/scripts/rofi_windowscd"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;w" type="string" value="brave"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;m" type="string" value="/home/aruncs/.config/bspwm/scripts/bspmusic">
+        <property name="startup-notify" type="bool" value="true"/>
+      </property>
+      <property name="&lt;Super&gt;m" type="string" value="/usr/share/archcraft/dwm/scripts/rofi_music"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
