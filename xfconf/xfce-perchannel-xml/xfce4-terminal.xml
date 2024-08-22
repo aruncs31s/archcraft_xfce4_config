@@ -2,11 +2,11 @@
 
 <channel name="xfce4-terminal" version="1.0">
   <property name="color-foreground" type="string" value="#eeffff"/>
-  <property name="color-background" type="string" value="#1e2541"/>
+  <property name="color-background" type="string" value="#2b2b30303b3b"/>
   <property name="color-cursor" type="string" value="#eeffff"/>
   <property name="color-bold-use-default" type="bool" value="false"/>
   <property name="color-palette" type="string" value="#1e2541;#f0719b;#5af7b0;#ffa56b;#57c7ff;#c792ea;#89ddff;#eeffff;#354274;#f02e6e;#2ce592;#ff8537;#1da0e2;#a742ea;#47bae8;#dee6e7"/>
-  <property name="font-name" type="string" value="JetBrainsMono Nerd Font 10"/>
+  <property name="font-name" type="string" value="BitstreamVeraSansMono Nerd Font Bold 10"/>
   <property name="misc-always-show-tabs" type="bool" value="false"/>
   <property name="misc-bell" type="bool" value="false"/>
   <property name="misc-bell-urgent" type="bool" value="false"/>
@@ -15,7 +15,7 @@
   <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_BLOCK"/>
   <property name="misc-default-geometry" type="string" value="80x25"/>
   <property name="misc-inherit-geometry" type="bool" value="false"/>
-  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-menubar-default" type="bool" value="true"/>
   <property name="misc-mouse-autohide" type="bool" value="false"/>
   <property name="misc-mouse-wheel-zoom" type="bool" value="true"/>
   <property name="misc-toolbar-default" type="bool" value="false"/>
@@ -43,6 +43,6 @@
   <property name="background-darkness" type="double" value="1"/>
   <property name="cell-width-scale" type="double" value="1"/>
   <property name="cell-height-scale" type="double" value="1"/>
-  <property name="font-allow-bold" type="bool" value="false"/>
+  <property name="font-allow-bold" type="bool" value="true"/>
   <property name="color-use-theme" type="bool" value="false"/>
 </channel>

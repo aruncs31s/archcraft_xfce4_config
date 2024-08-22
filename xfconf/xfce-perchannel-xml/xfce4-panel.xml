@@ -4,10 +4,10 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <property name="dark-mode" type="bool" value="true"/>
+    <property name="dark-mode" type="bool" value="false"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=683;y=15"/>
-      <property name="size" type="uint" value="30"/>
+      <property name="size" type="uint" value="24"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="enter-opacity" type="uint" value="100"/>
@@ -35,25 +35,24 @@
         <value type="int" value="27"/>
         <value type="int" value="7"/>
         <value type="int" value="29"/>
-        <value type="int" value="5"/>
-        <value type="int" value="2"/>
         <value type="int" value="22"/>
         <value type="int" value="20"/>
         <value type="int" value="1"/>
         <value type="int" value="21"/>
         <value type="int" value="8"/>
       </property>
-      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="autohide-behavior" type="uint" value="2"/>
       <property name="length-adjust" type="bool" value="false"/>
       <property name="output-name" type="string" value="eDP1"/>
-      <property name="background-style" type="uint" value="0"/>
+      <property name="background-style" type="uint" value="1"/>
       <property name="icon-size" type="uint" value="0"/>
       <property name="background-rgba" type="array">
-        <value type="double" value="0.56862745098039214"/>
-        <value type="double" value="0.25490196078431371"/>
-        <value type="double" value="0.67450980392156867"/>
+        <value type="double" value="0.23921568627450981"/>
+        <value type="double" value="0.2196078431372549"/>
+        <value type="double" value="0.27450980392156865"/>
         <value type="double" value="1"/>
       </property>
+      <property name="background-image" type="string" value="file:///home/aruncs/Pictures/wallpaperflare.com_wallpaper%20(2).jpg"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -69,13 +68,13 @@
     </property>
     <property name="plugin-4" type="string" value="applicationsmenu">
       <property name="button-icon" type="string" value="ulauncher"/>
-      <property name="button-title" type="string" value="Apps"/>
+      <property name="button-title" type="string" value=" Apps    "/>
       <property name="small" type="bool" value="true"/>
       <property name="show-menu-icons" type="bool" value="true"/>
       <property name="show-generic-names" type="bool" value="true"/>
       <property name="custom-menu" type="bool" value="false"/>
       <property name="show-tooltips" type="bool" value="false"/>
-      <property name="show-button-title" type="bool" value="false"/>
+      <property name="show-button-title" type="bool" value="true"/>
     </property>
     <property name="plugin-15" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
@@ -84,6 +83,8 @@
     <property name="plugin-16" type="string" value="pager">
       <property name="rows" type="uint" value="1"/>
       <property name="miniature-view" type="bool" value="false"/>
+      <property name="workspace-scrolling" type="bool" value="false"/>
+      <property name="numbering" type="bool" value="false"/>
     </property>
     <property name="plugin-17" type="string" value="separator">
       <property name="expand" type="bool" value="false"/>
@@ -91,6 +92,42 @@
     </property>
     <property name="plugin-20" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="mate-settings-daemon"/>
+        <value type="string" value="caja"/>
+        <value type="string" value="mate-power-manager"/>
+        <value type="string" value="telegramdesktop"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (89%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (80%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (72%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (67%)"/>
+        <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (81%)"/>
+        <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (100%)"/>
+        <value type="string" value="networking disabled"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (70%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (77%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (74%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (55%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (81%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (79%)"/>
+        <value type="string" value="ulauncher"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (84%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (83%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (85%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (100%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (78%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (82%)"/>
+        <value type="string" value="wi-fi network connection “vivo y72 5g” active: vivo y72 5g (49%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (69%)"/>
+        <value type="string" value="wi-fi network connection “802.11” active: 802.11 (30%)"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (83%)"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="wi-fi network connection “hotspot” active: hotspot (0%)"/>
+        <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (35%)"/>
+        <value type="string" value="wi-fi network connection “gcek wifi” active: gcek wifi (40%)"/>
+        <value type="string" value="configuring wi-fi network connection “gcek wifi”…"/>
+        <value type="string" value="preparing wi-fi network connection “gcek wifi”…"/>
+        <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (92%)"/>
         <value type="string" value="configuring wi-fi network connection “poco x2”…"/>
         <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (73%)"/>
         <value type="string" value="wi-fi network connection “tp-link_2.4g 1” active: tp-link_2.4g (78%)"/>
@@ -140,6 +177,7 @@
         <value type="string" value="wi-fi network connection “oppo a54” active: oppo a54 (63%)"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="ulauncher"/>
         <value type="string" value="qBittorrent"/>
         <value type="string" value="obs"/>
         <value type="string" value="walc1"/>
@@ -160,7 +198,6 @@
       <property name="expand" type="bool" value="false"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-2" type="string" value="power-manager-plugin"/>
     <property name="plugin-3" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
       <property name="expand" type="bool" value="false"/>
@@ -209,7 +246,6 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-5" type="string" value="xfce4-clipman-plugin"/>
     <property name="plugin-23" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17155956781.desktop"/>

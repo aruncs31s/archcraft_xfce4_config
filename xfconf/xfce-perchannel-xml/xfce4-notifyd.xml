@@ -19,8 +19,10 @@
       <value type="string" value="org.kde.kdeconnect.daemon"/>
       <value type="string" value="org.qbittorrent.qBittorrent"/>
       <value type="string" value="org.xfce.Thunar"/>
+      <value type="string" value="Power Manager"/>
       <value type="string" value="Spotify"/>
       <value type="string" value="thorium-browser"/>
+      <value type="string" value="ulauncher"/>
       <value type="string" value="vivaldi-stable"/>
       <value type="string" value="vlc"/>
       <value type="string" value="walc"/>
